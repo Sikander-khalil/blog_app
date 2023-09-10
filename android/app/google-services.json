@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594721702548",
+    "project_id": "backblog-b2c1b",
+    "storage_bucket": "backblog-b2c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594721702548:android:eee9e0984441f4ce412a81",
+        "android_client_info": {
+          "package_name": "com.example.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594721702548-9khgp9slf495ckft9bblotr4fbkckfs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRr4CWFff2ICQdU3YEU_ODgj8CFJd2hIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594721702548-9khgp9slf495ckft9bblotr4fbkckfs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
